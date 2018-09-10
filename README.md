@@ -1,2 +1,2 @@
-# ComprobarInternet
-Comprobrar si tiene conexion a Internet en Android Studio
+# Comprobar si tiene conexion a Internet en Android Studio
+Ejemplo realizado en Android Studio
